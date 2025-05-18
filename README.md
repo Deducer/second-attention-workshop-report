@@ -11,12 +11,12 @@ This repository contains the reference implementation for the before/after EEG r
 ---
 
 ## 🚀 Live Demo
-> _(Add link here if deployed, e.g. Vercel/Netlify)_
+https://second-attention-workshop-report.vercel.app/
 
 ---
 
 ## 🎥 Loom Walkthrough
-> _(Add Loom video link here for a guided walkthrough)_
+https://www.loom.com/share/57fbedec20634ef8ab7a66314f5f6f36?sid=669c30cf-2e25-4ae8-b1fe-ff0cb57d661b
 
 ---
 
